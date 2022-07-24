@@ -165,7 +165,6 @@ h1 {
     margin-bottom: 100px;
     text-align: justify;
     border-color: #3ded9b78;
-    text-shadow: #ca782078;
 }
 
 #electrician {
@@ -175,7 +174,6 @@ h1 {
     margin-bottom: 100px;
     text-align: justify;
     border-color: #3ded9b78;
-    text-shadow: #ca782078;
 }
 
 #plumber {
@@ -185,18 +183,18 @@ h1 {
     margin-bottom: 100px;
     text-align: justify;
     border-color: #3ded9b78;
-    text-shadow: #ca782078;
 }
 
-#cleaner {
+#cleaner{
     font-family: Arial, Helvetica, sans-serif;
     display: block;
     padding: 10px;
     margin-bottom: 100px;
     text-align: justify;
     border-color: #3ded9b78;
-    text-shadow: #ca782078;
 }
+    
+
 
 .name {
     font-family: Arial, Helvetica, sans-serif;
