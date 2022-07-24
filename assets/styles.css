@@ -1,0 +1,240 @@
+/*Followings elements are available on all pages */
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#company_name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: firebrick;
+    text-align: center;
+}
+
+#menu_bar {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#menu_bar li {
+    display: inline;
+    padding: 20px;
+}
+
+#menu_bar a {
+    text-decoration: none;
+    color: #00F;
+    padding: 1px 1px 1px;
+}
+
+@media screen and (min-width: 48em) {
+    #menu_bar {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
+
+
+#home:hover {
+    background-color: #ebe352ad;
+    color: #064d8b;
+    
+}
+
+#services:hover {
+    background-color: #ebe352ad;
+    color: #064d8b;
+}
+
+#contactus:hover {
+    background-color: #ebe352ad;
+    color: #064d8b;
+}
+
+#follow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+
+/*Following Elements are present on HOME page */
+
+#login {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#signup {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#social_media_accounts {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#username {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#password {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit:hover {
+    background-color: #ebe352ad;
+    color: #064d8b;
+}
+
+#firstName {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lastName {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dateOfBirth {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#follow {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+
+/*Following elements are present on services page*/
+
+#handyman {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 10px;
+    margin-bottom: 100px;
+    text-align: justify;
+    border-color: #3ded9b78;
+    text-decoration: underline;
+    text-shadow: #ca782078;
+    color: rgb(82, 1, 1);
+}
+
+#electrician {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 10px;
+    margin-bottom: 100px;
+    text-align: justify;
+    border-color: #3ded9b78;
+    text-shadow: #ca782078;
+}
+
+#plumber {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 10px;
+    margin-bottom: 100px;
+    text-align: justify;
+    border-color: #3ded9b78;
+    text-shadow: #ca782078;
+}
+
+#cleaner {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 10px;
+    margin-bottom: 100px;
+    text-align: justify;
+    border-color: #3ded9b78;
+    text-shadow: #ca782078;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.city {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.mobile {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.personName {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.personCity {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.personMobile {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+
+/*Following elements are present on Contact Us page*/
+
+#contact {
+    font-family: Arial, Helvetica, sans-serif;
+    color: crimson;
+    font-size: larger;
+}
+
+#contactUs {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0.5cm;
+}
+
+#address {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1cm;
+}
+
+#mobile {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#email {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cancel {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cancel:hover {
+    background-color: #ebe352ad;
+    color: #064d8b;
+}
+
+
+/*Following elements are present on About Us page*/
