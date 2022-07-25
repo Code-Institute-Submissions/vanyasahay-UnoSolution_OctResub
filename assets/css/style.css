@@ -7,8 +7,6 @@ body {
 
 #menu {
     overflow: hidden;
-    background-color: #ADEFD1FF;
-    border-width: 7cms;
 }
 
 #menu a {
@@ -34,7 +32,7 @@ body {
 }
 
 #menu a.active {
-    background-color: #00203FFF;
+    background-color: #04AA6D;
     color: white;
 }
 
