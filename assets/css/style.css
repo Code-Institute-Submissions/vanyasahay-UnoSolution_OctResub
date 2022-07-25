@@ -1,11 +1,5 @@
 /*Index Page */
 
-h1 {}
-
-h2 {}
-
-h3 {}
-
 body {
     background-color: beige;
 }
@@ -59,7 +53,10 @@ body {
     color: white;
 }
 
-#company_logo {}
+#company_logo {
+    padding: 5px;
+    margin-top: auto;
+}
 
 #company_name {
     font-family: 'Times New Roman', Times, serif;
