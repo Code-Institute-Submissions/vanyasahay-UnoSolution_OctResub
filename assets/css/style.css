@@ -6,15 +6,21 @@ h2 {}
 
 h3 {}
 
-body {}
+body {
+    background-color: beige;
+}
 
-#menu_bar {}
+#menu_bar {
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
 
 #menu {
-    font-size: 4rem;
-    letter-spacing: 4px;
+    font-size: 1rem;
+    letter-spacing: 2px;
     align-items: center;
-    list-style: none;
 }
 
 #menu a {
