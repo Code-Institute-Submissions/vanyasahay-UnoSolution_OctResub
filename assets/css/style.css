@@ -1,0 +1,54 @@
+/*Index Page */
+
+h1 h2 h3 body #menu_bar {
+    display: block;
+    block-size: 2cm;
+}
+
+#menu {
+    font-size: 1rem;
+    letter-spacing: 4px;
+    align-items: center;
+    list-style: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #00003b;
+    margin: 10px;
+}
+
+#menu li {
+    padding-bottom: 10%;
+}
+
+#menu a:hover {
+    border-bottom: 5px single #559178
+}
+
+#company_logo {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#company_name #aboutus_container #aboutus #login_container #login #username #password .submit #signup_container #signup #firstName #lastName #dateOfBirth #username1 #password1 .follow {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
+
+
+/*Services Page*/
+
+h1 h2 h3 body #menu_bar #menu #company_logo #company_name #handyman_container #handyman .name .city .mobile .personName .personCity .personMobile #electrician_container #electrician #plumber_container #plumber #cleaner_container #cleaner
+/*Contact Us*/
+
+h1 h2 h3 body #menu_bar #menu #company_logo #company_name #contactus_container #contactus #firstName1 #lastName1 #mobile #email #message .submit #cancel #follow
