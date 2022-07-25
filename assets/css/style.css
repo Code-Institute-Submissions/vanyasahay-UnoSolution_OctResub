@@ -2,6 +2,7 @@
 
 body {
     background-color: beige;
+    font-size: 15px;
 }
 
 #menu {
@@ -32,6 +33,12 @@ body {
 #menu a.active {
     background-color: #04AA6D;
     color: white;
+}
+
+.logo-img {
+    float: right;
+    position: relative;
+    margin: 10px 15px 15px 10px;
 }
 
 #company_logo {
