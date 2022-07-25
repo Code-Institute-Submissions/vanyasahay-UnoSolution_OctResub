@@ -21,7 +21,7 @@ body {}
     text-decoration: none;
     color: #060642;
     margin: 10px;
-    font-size: larger;
+    font-size: 1cm;
     font-weight: bold;
     font-style: normal;
 }
@@ -39,7 +39,37 @@ body {}
     flex-direction: column;
 }
 
-#company_name #aboutus_container #aboutus #login_container #login #username #password .submit #signup_container #signup #firstName #lastName #dateOfBirth #username1 #password1 .follow {
+#company_name {}
+
+#aboutus_container {}
+
+#aboutus {}
+
+#login_container {}
+
+#login {}
+
+#username {}
+
+#password {}
+
+.submit {}
+
+#signup_container {}
+
+#signup {}
+
+#firstName {}
+
+#lastName {}
+
+#dateOfBirth {}
+
+#username1 {}
+
+#password1 {}
+
+.follow {
     display: flex;
     flex-direction: row;
     list-style: none;
