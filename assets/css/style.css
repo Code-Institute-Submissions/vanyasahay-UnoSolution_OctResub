@@ -88,9 +88,15 @@ body {
     padding: 5px 10px;
 }
 
-#username {}
+#username {
+    color: red;
+    font-weight: bold;
+}
 
-#password {}
+#password {
+    color: red;
+    font-weight: bold;
+}
 
 .submit {
     background-image: linear-gradient(#f7f8fa, #e7e9ec);
@@ -155,15 +161,30 @@ body {
     padding: 5px 10px;
 }
 
-#firstName {}
+#firstName {
+    color: red;
+    font-weight: bold;
+}
 
-#lastName {}
+#lastName {
+    color: red;
+    font-weight: bold;
+}
 
-#dateOfBirth {}
+#dateOfBirth {
+    color: red;
+    font-weight: bold;
+}
 
-#username1 {}
+#username1 {
+    color: red;
+    font-weight: bold;
+}
 
-#password1 {}
+#password1 {
+    color: red;
+    font-weight: bold;
+}
 
 #follow {
     background-color: white;
