@@ -12,7 +12,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
     font-weight: bold;
-    color: firebrick;
+    color: #ffffff;
     text-align: center;
 }
 
@@ -138,14 +138,17 @@ h1 {
 
 #firstName {
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
 
 #lastName {
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff
 }
 
 #dateOfBirth {
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff
 }
 
 #follow {
