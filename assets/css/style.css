@@ -23,6 +23,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: max-content;
 }
 
 #menu a:hover {
@@ -39,11 +40,6 @@ body {
     float: right;
     position: relative;
     margin: 10px 15px 15px 10px;
-}
-
-#company_logo {
-    padding: 5px;
-    margin-top: auto;
 }
 
 #company_name {
