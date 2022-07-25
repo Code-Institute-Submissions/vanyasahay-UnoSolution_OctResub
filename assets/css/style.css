@@ -23,7 +23,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: max-content;
+    height: fit-content;
 }
 
 #menu a:hover {
