@@ -17,6 +17,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-weight: bold;
 }
 
 #menu li {
@@ -55,11 +56,18 @@ body {
     margin: 10px;
 }
 
-#aboutus {
+#aboutus h2 {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     font-style: normal;
     color: #a00000
+}
+
+#aboutus p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+    color: #ffffff
 }
 
 #login_container {}
