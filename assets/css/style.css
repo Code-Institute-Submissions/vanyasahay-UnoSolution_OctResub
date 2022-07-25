@@ -1,12 +1,14 @@
 /*Index Page */
 
 body {
-    background-color: beige;
+    background-color: #00203FFF;
     font-size: 15px;
 }
 
 #menu {
     overflow: hidden;
+    background-color: #ADEFD1FF;
+    border-width: 7cms;
 }
 
 #menu a {
@@ -59,14 +61,15 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     font-style: normal;
-    color: #a00000
+    color: #000000;
+    font-weight: bolder;
 }
 
 #aboutus_container p {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     font-style: normal;
-    color: #ffffff
+    color: #ADEFD1FF
 }
 
 #login_container {}
