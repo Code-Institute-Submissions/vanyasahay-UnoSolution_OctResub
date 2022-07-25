@@ -153,4 +153,12 @@ body {
 
 #cancel {}
 
-#follow {}
+@media screen and (max-width: 600px) {
+    #menu a:not(:first-child) {
+        display: none;
+    }
+    #menu a.icon {
+        float: right;
+        display: block;
+    }
+}
