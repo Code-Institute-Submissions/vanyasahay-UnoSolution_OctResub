@@ -1,7 +1,7 @@
 /*Followings elements are available on all pages */
 
 body {
-    background-color: beige;
+    background-color: 046b99;
 }
 
 h1 {
@@ -43,11 +43,9 @@ h1 {
     }
 }
 
-
 #home:hover {
     background-color: #ebe352ad;
     color: #064d8b;
-    
 }
 
 #services:hover {
@@ -60,7 +58,7 @@ h1 {
     color: #064d8b;
 }
 
-#follow{
+#follow {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -94,49 +92,49 @@ h1 {
 }
 
 .submit {
-    background-image: linear-gradient(#f7f8fa ,#e7e9ec);
-  border-color: #adb1b8 #a2a6ac #8d9096;
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 3px;
-  box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
-  box-sizing: border-box;
-  color: #0f1111;
-  cursor: pointer;
-  display: inline-block;
-  font-family: "Amazon Ember",Arial,sans-serif;
-  font-size: 14px;
-  height: 29px;
-  font-size: 13px;
-  outline: 0;
-  overflow: hidden;
-  padding: 0 11px;
-  text-align: center;
-  text-decoration: none;
-  text-overflow: ellipsis;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
+    background-image: linear-gradient(#f7f8fa, #e7e9ec);
+    border-color: #adb1b8 #a2a6ac #8d9096;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, .6) 0 1px 0 inset;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 14px;
+    height: 29px;
+    font-size: 13px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 11px;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
 }
 
 .submit:active {
     border-bottom-color: #a2a6ac;
-  }
-  
-  .submit:active:hover {
+}
+
+.submit:active:hover {
     border-bottom-color: #a2a6ac;
-  }
-  
-  .submit:hover {
+}
+
+.submit:hover {
     border-color: #a2a6ac #979aa1 #82858a;
-  }
-  
-  .submit:focus {
+}
+
+.submit:focus {
     border-color: #e77600;
     box-shadow: rgba(228, 121, 17, .5) 0 0 3px 2px;
     outline: 0;
-  }
+}
 
 #firstName {
     font-family: Arial, Helvetica, sans-serif;
@@ -185,7 +183,7 @@ h1 {
     border-color: #3ded9b78;
 }
 
-#cleaner{
+#cleaner {
     font-family: Arial, Helvetica, sans-serif;
     display: block;
     padding: 10px;
@@ -193,8 +191,6 @@ h1 {
     text-align: justify;
     border-color: #3ded9b78;
 }
-    
-
 
 .name {
     font-family: Arial, Helvetica, sans-serif;
@@ -260,46 +256,46 @@ h1 {
 }
 
 #cancel {
-    background-image: linear-gradient(#f7f8fa ,#e7e9ec);
-  border-color: #adb1b8 #a2a6ac #8d9096;
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 3px;
-  box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
-  box-sizing: border-box;
-  color: #0f1111;
-  cursor: pointer;
-  display: inline-block;
-  font-family: "Amazon Ember",Arial,sans-serif;
-  font-size: 14px;
-  height: 29px;
-  font-size: 13px;
-  outline: 0;
-  overflow: hidden;
-  padding: 0 11px;
-  text-align: center;
-  text-decoration: none;
-  text-overflow: ellipsis;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
+    background-image: linear-gradient(#f7f8fa, #e7e9ec);
+    border-color: #adb1b8 #a2a6ac #8d9096;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    box-shadow: rgba(255, 255, 255, .6) 0 1px 0 inset;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 14px;
+    height: 29px;
+    font-size: 13px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 11px;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
 }
 
 #cancel:active {
     border-bottom-color: #a2a6ac;
-  }
-  
-  #cancel:active:hover {
+}
+
+#cancel:active:hover {
     border-bottom-color: #a2a6ac;
-  }
-  
-  #cancel:hover {
+}
+
+#cancel:hover {
     border-color: #a2a6ac #979aa1 #82858a;
-  }
-  
-  #cancel:focus {
+}
+
+#cancel:focus {
     border-color: #e77600;
     box-shadow: rgba(228, 121, 17, .5) 0 0 3px 2px;
     outline: 0;
-  }
+}
