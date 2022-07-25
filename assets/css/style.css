@@ -32,7 +32,7 @@ body {
 }
 
 #menu a.active {
-    background-color: #04AA6D;
+    background-color: #00203FFF;
     color: white;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 #company_name {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 50px;
     font-weight: bold;
     color: #046b99;
@@ -56,15 +56,15 @@ body {
 }
 
 #aboutus_container h2 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-family: sans-serif;
+    font-size: x-large;
     font-style: normal;
-    color: #000000;
+    color: #ddd;
     font-weight: bolder;
 }
 
 #aboutus_container p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: medium;
     font-style: normal;
     color: #ADEFD1FF
