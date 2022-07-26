@@ -429,3 +429,43 @@ body {
         display: block;
     }
 }
+
+@media screen and (max-width: 600px) {
+    #handyman_container a:not(:first-child) {
+        display: none;
+    }
+    #handyman_container a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #electrician_container a:not(:first-child) {
+        display: none;
+    }
+    #electrician_container a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #plumber_container a:not(:first-child) {
+        display: none;
+    }
+    #plumber_container a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #cleaner_container a:not(:first-child) {
+        display: none;
+    }
+    #cleaner_container a.icon {
+        float: right;
+        display: block;
+    }
+}
