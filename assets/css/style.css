@@ -57,7 +57,7 @@ body {
 
 #aboutus_container p {
     font-family: sans-serif;
-    font-size: medium;
+    font-size: large;
     font-style: normal;
     color: #ADEFD1FF
 }
@@ -247,12 +247,27 @@ body {
 
 /*Services Page*/
 
-#handyman_container {
+#professionalServices {
     padding: 5px;
     margin: 10px;
     float: right;
-    width: 25%;
-    height: 280px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.professional1,
+.professional2 {
+    width: 50%;
+    height: 100px;
+    margin: 10px;
+}
+
+.professional3,
+.professional4 {
+    width: 50%;
+    height: 100px;
+    margin: 10px;
 }
 
 #handyman {}
@@ -269,33 +284,9 @@ body {
 
 .personMobile {}
 
-#electrician_container {
-    padding: 5px;
-    margin: 10px;
-    float: right;
-    width: 25%;
-    height: 280px;
-}
-
-#electrician {
-    padding: 5px;
-    margin: 10px;
-    float: right;
-    width: 25%;
-    height: 280px;
-}
-
-#plumber_container {
-    padding: 5px;
-    margin: 10px;
-    float: right;
-    width: 25%;
-    height: 280px;
-}
+#electrician {}
 
 #plumber {}
-
-#cleaner_container {}
 
 #cleaner {}
 
@@ -315,10 +306,6 @@ body {
 #email {}
 
 #message {}
-
-.submit {}
-
-#cancel {}
 
 @media screen and (max-width: 600px) {
     #menu a:not(:first-child) {
