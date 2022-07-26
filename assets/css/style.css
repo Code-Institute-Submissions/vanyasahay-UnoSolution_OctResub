@@ -443,6 +443,19 @@ body {
     font-weight: bold;
 }
 
+#address h3 {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration: solid;
+    font-size: medium;
+}
+
+#address strong {
+    color: black;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 600px) {
     #menu a:not(:first-child) {
         display: none;
