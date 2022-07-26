@@ -2,20 +2,15 @@
 
 
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
 Uno Solution
 Ux/Ui
     Target Audience
+    I had a leakage at home and looking for plumber to fix those leaks. It was very urgent and I couldn't find any local plumber who can fix this on same day. UNO Solutionis a website where users can search and contact local professional directly. This website shows only available professionals who can do the job same day. Not only plumbers, users can search and contact other professionals like Cleaners, Electrician or Handyman for other jobs.
+
     Site Goal
+    The goal of the site is to show only available professional and users can search them on services page.
+    Users can contact them directly by calling them and book appointment on same day.
+
     Colour Choice
     Fonts
 Features
@@ -24,15 +19,33 @@ Features
     Signup
     Contact US
     Address
+
     Technology Used
+    HTML
+    CSS
+
 Testing
     Home Page
     Service Page
     Contact Us Page
     Links on the pages
+
     Device Tested
+    Macbook Pro
+    Windows 10
+    iPhone 11
+    Tested in responsive toon in Google Chrome Developers Tool.
+
+
     Browser tested
+    Google Chrome
+    Edge
+    Firefox
+    Safari
+
     Validator Testing
+    HTML: No errors are returned when passing through the official W3C validator.
+    CSS: No errors are returned when passing throught the official Jigsaw validator.    
 
 Deployment
 This site was deployed to Github pages.
@@ -56,8 +69,40 @@ $ gh repo clone vanyasahay/UnoSolution
 Press Enter to create your local clone.
 
 Credits
+Love Running is used as a base
+icons ref
+1) Servives-> https://fontawesome.com/v4/icon/cog
+2) Home- https://fontawesome.com/v5/icons/home?style=solid&s=solid
+3)Contact us- https://fontawesomeicons.com/phone
+
+images
+1) Uno Solution Icons--> https://www.kindpng.com/picc/m/204-2043165_creative-services-s-h-handyman-icons-free-hd.png
+2) Handyman--> https://pixabay.com/photos/handyman-construction-site-workers-3094035/
+3) Electrician-> https://pixabay.com/photos/electrician-electric-electricity-1080561/
+4) Plumber-> https://pixabay.com/photos/plumber-frog-loo-p%c3%b6mpel-repair-1160822/
+5) Cleaner- https://pixabay.com/photos/clean-easter-eggs-shell-clean-up-3279630/
+
+
+Menu Bar Icons--> https://fontawesome.com/
+home- https://fontawesome.com/search?q=home&s=brands%2Cthin
+services- https://fontawesome.com/search?q=settings&s=brands%2Cthin
+Contact Us-  https://fontawesome.com/search?q=phone&s=brands%2Cthin
+
+Social Media Icons--> https://fontawesome.com/
+Facebook- https://fontawesome.com/search?q=facebook&s=brands%2Csolid
+Instagram- https://fontawesome.com/search?q=instagram&s=brands%2Csolid
+Twitter- https://fontawesome.com/search?q=twitter&s=brands%2Csolid
+LinkedIn- https://fontawesome.com/search?q=linkedin&s=brands%2Csolid
+
 Bug Fixed
+Icons in the menu bar is not displayed correctly.
+Company Logo and menu bar is overriding.
+
 Resource Used
+Stack Overflow
+Google
+W3School
+
 
 
 
