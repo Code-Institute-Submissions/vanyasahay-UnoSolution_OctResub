@@ -105,12 +105,12 @@ body {
 }
 
 #username {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
 #password {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
@@ -205,27 +205,27 @@ body {
 }
 
 #firstName {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
 #lastName {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
 #dateOfBirth {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
 #username1 {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
 #password1 {
-    color: red;
+    color: black;
     font-weight: bold;
 }
 
@@ -396,15 +396,30 @@ body {
     padding: 5px 10px;
 }
 
-#firstName1 {}
+#firstName1 {
+    color: black;
+    font-weight: bold;
+}
 
-#lastName1 {}
+#lastName1 {
+    color: black;
+    font-weight: bold;
+}
 
-#mobile {}
+#mobile {
+    color: black;
+    font-weight: bold;
+}
 
-#email {}
+#email {
+    color: black;
+    font-weight: bold;
+}
 
-#message {}
+#message {
+    color: black;
+    font-weight: bold;
+}
 
 @media screen and (max-width: 600px) {
     #menu a:not(:first-child) {
