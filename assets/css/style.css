@@ -90,6 +90,11 @@ body {
     padding: 5px 10px;
 }
 
+#login_container label {
+    font-weight: bold;
+    color: #ddd;
+}
+
 #signup_container {
     padding: 5px;
     margin: 10px;
@@ -406,6 +411,11 @@ body {
     font-weight: normal;
     color: white;
     padding: 5px 10px;
+}
+
+#contactus_container label {
+    font-weight: bold;
+    color: #ddd;
 }
 
 #firstName1 {
