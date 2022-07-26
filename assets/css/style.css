@@ -250,7 +250,7 @@ body {
 
 /*Services Page*/
 
-#handyman_container {
+.professional {
     padding: 5px;
     margin: 10px;
     float: left;
@@ -261,7 +261,8 @@ body {
     margin-bottom: 30px;
 }
 
-#cleaner_container {
+
+/*#cleaner_container {
     padding: 5px;
     margin: 10px;
     float: left;
@@ -291,16 +292,17 @@ body {
     height: 280px;
     display: flex;
     margin-top: 30px;
-}
+}*/
 
-#handyman_container h2 {
+.professional h2 {
     font-family: sans-serif;
     font-size: large;
     font-weight: bold;
     color: #ddd;
 }
 
-#electrician_container h2 {
+
+/*#electrician_container h2 {
     font-family: sans-serif;
     font-size: large;
     font-weight: bold;
@@ -319,7 +321,7 @@ body {
     font-size: large;
     font-weight: bold;
     color: #ddd;
-}
+}*/
 
 .name {
     font-family: sans-serif;
@@ -447,6 +449,16 @@ body {
         display: none;
     }
     #menu a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .professional a:not(:first-child) {
+        display: none;
+    }
+    .professional a.icon {
         float: right;
         display: block;
     }
