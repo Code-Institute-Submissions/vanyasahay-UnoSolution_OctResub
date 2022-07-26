@@ -324,7 +324,7 @@ body {
 .name {
     font-family: sans-serif;
     font-size: small;
-    font-weight: normal;
+    font-weight: bold;
     color: #ddd;
     padding: 5px 5px 5px 5px;
     margin: 2px;
@@ -335,7 +335,7 @@ body {
 .city {
     font-family: sans-serif;
     font-size: small;
-    font-weight: normal;
+    font-weight: bold;
     color: #ddd;
     padding: 5px 5px 5px 5px;
     margin: 2px;
@@ -346,7 +346,7 @@ body {
 .mobile {
     font-family: sans-serif;
     font-size: small;
-    font-weight: normal;
+    font-weight: bold;
     color: #ddd;
     padding: 5px 5px 5px 5px;
     margin: 2px;
@@ -354,24 +354,52 @@ body {
     text-decoration-color: #ddd;
 }
 
-.personName {}
+.personName {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+}
 
-.personCity {}
+.personCity {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+}
 
-.personMobile {}
-
-#electrician {}
-
-#plumber {}
-
-#cleaner {}
+.personMobile {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+}
 
 
 /*Contact Us*/
 
-#contactus_container {}
+#contactus_container {
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    width: 25%;
+    height: 280px;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
-#contactus {}
+#contactus_container legend {
+    font-weight: normal;
+    color: white;
+    padding: 5px 10px;
+}
 
 #firstName1 {}
 
