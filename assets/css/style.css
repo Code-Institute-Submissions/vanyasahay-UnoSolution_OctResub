@@ -1,5 +1,11 @@
 /*Index Page */
 
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #00203f;
     font-size: 15px;
@@ -231,16 +237,15 @@ body {
 }
 
 #follow {
-    background-color: white;
     display: flex;
     flex-direction: row;
-    list-style-type: none;
-    padding: 10px;
+    list-style: none;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
     justify-content: space-evenly;
-    position: absolute;
-    bottom: 0;
-    height: 60px;
-    width: 100%;
+    margin-top: 5rem;
+    position: fixed;
 }
 
 
@@ -425,46 +430,6 @@ body {
         display: none;
     }
     #menu a.icon {
-        float: right;
-        display: block;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #handyman_container a:not(:first-child) {
-        display: none;
-    }
-    #handyman_container a.icon {
-        float: right;
-        display: block;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #electrician_container a:not(:first-child) {
-        display: none;
-    }
-    #electrician_container a.icon {
-        float: right;
-        display: block;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #plumber_container a:not(:first-child) {
-        display: none;
-    }
-    #plumber_container a.icon {
-        float: right;
-        display: block;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    #cleaner_container a:not(:first-child) {
-        display: none;
-    }
-    #cleaner_container a.icon {
         float: right;
         display: block;
     }
