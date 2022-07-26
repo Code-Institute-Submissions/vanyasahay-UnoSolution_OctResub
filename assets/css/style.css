@@ -320,11 +320,38 @@ body {
     color: #ddd;
 }
 
-.name {}
+.name {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+    text-decoration: underline;
+    text-decoration-color: #ddd;
+}
 
-.city {}
+.city {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+    text-decoration: underline;
+    text-decoration-color: #ddd;
+}
 
-.mobile {}
+.mobile {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: normal;
+    color: #ddd;
+    padding: 5px 5px 5px 5px;
+    margin: 2px;
+    text-decoration: underline;
+    text-decoration-color: #ddd;
+}
 
 .personName {}
 
