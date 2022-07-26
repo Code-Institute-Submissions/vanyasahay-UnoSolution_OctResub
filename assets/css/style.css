@@ -86,7 +86,7 @@ body {
 #signup_container {
     padding: 5px;
     margin: 10px;
-    float: right;
+    float: left;
     width: 25%;
     height: 280px;
 }
@@ -238,7 +238,7 @@ body {
     padding: 10px;
     justify-content: space-evenly;
     margin-top: 5rem;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     height: 40px;
@@ -247,7 +247,13 @@ body {
 
 /*Services Page*/
 
-#handyman_container {}
+#handyman_container {
+    padding: 5px;
+    margin: 10px;
+    float: right;
+    width: 25%;
+    height: 280px;
+}
 
 #handyman {}
 
@@ -263,11 +269,29 @@ body {
 
 .personMobile {}
 
-#electrician_container {}
+#electrician_container {
+    padding: 5px;
+    margin: 10px;
+    float: right;
+    width: 25%;
+    height: 280px;
+}
 
-#electrician {}
+#electrician {
+    padding: 5px;
+    margin: 10px;
+    float: right;
+    width: 25%;
+    height: 280px;
+}
 
-#plumber_container {}
+#plumber_container {
+    padding: 5px;
+    margin: 10px;
+    float: right;
+    width: 25%;
+    height: 280px;
+}
 
 #plumber {}
 
