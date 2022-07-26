@@ -111,6 +111,11 @@ body {
     padding: 5px 10px;
 }
 
+#signup_container label {
+    font-weight: bold;
+    color: #ddd;
+}
+
 #username {
     color: black;
     font-weight: bold;
