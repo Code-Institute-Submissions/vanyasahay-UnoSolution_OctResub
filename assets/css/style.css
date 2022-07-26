@@ -434,11 +434,11 @@ body {
     font-weight: bold;
     text-decoration: underline;
     text-decoration: solid;
-    font-size: medium;
+    font-size: 0.25cm;
 }
 
 #address strong {
-    color: black;
+    color: white;
     font-weight: bold;
 }
 
