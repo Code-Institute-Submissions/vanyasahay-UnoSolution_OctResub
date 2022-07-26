@@ -247,27 +247,40 @@ body {
 
 /*Services Page*/
 
-#professionalServices {
+#handyman_container {
     padding: 5px;
     margin: 10px;
-    float: right;
-    width: 100%;
-    height: auto;
+    float: left;
+    width: 25%;
+    height: 280px;
     display: flex;
 }
 
-.professional1,
-.professional2 {
-    width: 50%;
-    height: 100px;
+#cleaner_container {
+    padding: 5px;
     margin: 10px;
+    float: left;
+    width: 25%;
+    height: 280px;
+    display: flex;
 }
 
-.professional3,
-.professional4 {
-    width: 50%;
-    height: 100px;
+#electrician_container {
+    padding: 5px;
     margin: 10px;
+    float: left;
+    width: 25%;
+    height: 280px;
+    display: flex;
+}
+
+#plumber_container {
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    width: 25%;
+    height: 280px;
+    display: flex;
 }
 
 #handyman {}
