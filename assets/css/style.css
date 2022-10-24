@@ -457,6 +457,11 @@
                         #communication_container>#contactUs_map {
                             padding: 2%;
                         }
+                        #contactUs_form {
+                            max-width: 100%;
+                            height: auto;
+                            float: left;
+                        }
                     }
                     /* 2532x1170 pixels at 460ppi , iPhone13 & iPhone13 pro*/
                     
@@ -491,6 +496,11 @@
                             height: auto;
                             margin-bottom: auto;
                         }
+                        #contactUs_form {
+                            max-width: 100%;
+                            height: auto;
+                            float: left;
+                        }
                     }
                     /* Portrait */
                     
@@ -518,5 +528,10 @@
                         }
                         #communication_container>#contactUs_map {
                             padding: 2%;
+                        }
+                        #contactUs_form {
+                            max-width: 100%;
+                            height: auto;
+                            float: left;
                         }
                     }
