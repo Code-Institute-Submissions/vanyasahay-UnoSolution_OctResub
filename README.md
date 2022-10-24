@@ -68,12 +68,11 @@ Like plumbers, users can find out a number of different online professionals lik
 - Device Tested
 - Macbook Pro
 - Windows 10
-- iPhone 11
-- Tested in responsive toon in Google Chrome Developers Tool.
+- iPhone 12, iPhone11, iPhone 13 mini.
+- Tested in responsive tool in Google Chrome Developers Tool.
 
 ### **Browser Testing**
 - Google Chrome
-- Safari
 - Firefox
 - Microsoft Edge
 
@@ -93,9 +92,16 @@ Like plumbers, users can find out a number of different online professionals lik
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+### Fixed Bugs
 
-Media query needs to fix for some element which do not adjust on small screens.
+- Media query fix for some element which now works on iPhone mini, iPhone11/12. (Tested on Google Chrome developers tool.)
+- Forms now validate inputs.
+- Structured Layout fixed.
+
+### Fixed Bugs
+
+- Media query for other device needs to improve.
+
 
 ## Deployment
 
@@ -129,6 +135,8 @@ Press Enter to create your local clone.
   - Love Running is used as a base.
   - Mentors and Collegue 
   - VS Code and GITPOD
+  - Youtube videos
+  -CSS tricks
   
 - **Images**
 
