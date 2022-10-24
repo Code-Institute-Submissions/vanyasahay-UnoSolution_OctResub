@@ -101,9 +101,15 @@ Like plumbers, users can find out a number of different online professionals lik
 - Forms now validate inputs.
 - Structured Layout fixed.
 
-### Fixed Bugs
+### Unfixed Bugs
 
 - Media query for other device needs to improve.
+- Footer layout for home page for small screen need to be fixed.
+
+### Future Improvements
+
+- Needs to connect to database.
+- Live services availability in location.
 
 
 ## Deployment
