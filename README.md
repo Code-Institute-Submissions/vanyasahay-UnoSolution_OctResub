@@ -36,6 +36,7 @@ Like plumbers, users can find out a number of different online professionals lik
 
   - This section will allow the user to contact the Uno Solution help desks. This page also have physical address of the company.
   - Users need to fill up the form and helpdesks will answer there queries. 
+  - Google map added
 
 ![Contact Us](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658863378/images_pp1/ContactUsPage_j0nrxo.png)
 
