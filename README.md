@@ -24,13 +24,13 @@ Like plumbers, users can find out a number of different online professionals lik
   - The Landing page contains company logo along with About Us section which gives a brief idea about the Company. Users and also login here if they have already registered on the system or Sign Up if wants to create a new account. 
   
 
-![Home Page](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658863378/images_pp1/LandingPage_atgmqv.png)
+![Home Page](https://res.cloudinary.com/dk2fqntmr/image/upload/v1666605813/images_pp1/Screenshot_2022-10-24_at_11.02.10_s2xkfg.png)
 
 - __Services Page__
 
   - The Services Page will allow the user to see list of available professions with their contact numbers.  
 
-![Services](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658863379/images_pp1/ServicesPage_rf54ot.png)
+![Services](https://res.cloudinary.com/dk2fqntmr/image/upload/v1666605813/images_pp1/Screenshot_2022-10-24_at_11.03.12_buctdy.png)
 
 - __Contact Us__
 
@@ -38,7 +38,7 @@ Like plumbers, users can find out a number of different online professionals lik
   - Users need to fill up the form and helpdesks will answer there queries. 
   - Google map added
 
-![Contact Us](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658863378/images_pp1/ContactUsPage_j0nrxo.png)
+![Contact Us](https://res.cloudinary.com/dk2fqntmr/image/upload/v1666605905/images_pp1/Screenshot_2022-10-24_at_11.04.54_kuisn6.png)
 
 - __The Footer__ 
 
