@@ -442,12 +442,14 @@
                         }
                         #signin_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container>#contactUs_map {
@@ -468,12 +470,14 @@
                         }
                         #signin_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container>#contactUs_map {
@@ -494,12 +498,14 @@
                         }
                         #signin_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container {
                             display: block;
-                            max-width: fit-content;
+                            max-width: 100%;
+                            height: auto;
                             float: left;
                         }
                         #communication_container>#contactUs_map {
