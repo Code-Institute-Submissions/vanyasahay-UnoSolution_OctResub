@@ -485,6 +485,12 @@
                         #communication_container>#contactUs_map {
                             padding: 2%;
                         }
+                        body {
+                            font-size: x-small;
+                            max-width: 100%;
+                            height: auto;
+                            margin-bottom: auto;
+                        }
                     }
                     /* Portrait */
                     
