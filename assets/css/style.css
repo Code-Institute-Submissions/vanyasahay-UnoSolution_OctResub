@@ -365,14 +365,14 @@
                     
                     #communication_container {
                         display: flex;
-                        flex-direction: row;
+                        flex-direction: column;
                         justify-content: space-between;
                         flex-wrap: nowrap;
                         padding: 5px;
                         max-width: max-content;
                         height: auto;
-                        margin-top: 30px;
-                        margin-bottom: 30px;
+                        margin-top: 10px;
+                        margin-bottom: 10px;
                         margin-left: 5px;
                     }
                     
@@ -443,17 +443,14 @@
                         #signin_container {
                             display: block;
                             max-width: fit-content;
-                            width: 50%;
                             float: left;
                         }
                         #communication_container {
                             display: block;
                             max-width: fit-content;
-                            width: 50%;
                             float: left;
                         }
                         #communication_container>#contactUs_map {
-                            width: 50%;
                             padding: 2%;
                         }
                     }
@@ -472,14 +469,7 @@
                         #signin_container {
                             display: block;
                             max-width: fit-content;
-                            width: 50%;
                             float: left;
-                        }
-                        #follow {
-                            position: -webkit-sticky;
-                            position: sticky;
-                            bottom: 0;
-                            font-size: 2rem
                         }
                         #communication_container {
                             display: block;
@@ -487,7 +477,6 @@
                             float: left;
                         }
                         #communication_container>#contactUs_map {
-                            width: 30%;
                             padding: 2%;
                         }
                     }
@@ -506,7 +495,6 @@
                         #signin_container {
                             display: block;
                             max-width: fit-content;
-                            width: 50%;
                             float: left;
                         }
                         #communication_container {
@@ -515,7 +503,6 @@
                             float: left;
                         }
                         #communication_container>#contactUs_map {
-                            width: 30%;
                             padding: 2%;
                         }
                     }
