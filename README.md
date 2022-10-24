@@ -80,9 +80,11 @@ Like plumbers, users can find out a number of different online professionals lik
 - Color Contrast: This website is used to verify color contrast analyzer ![Color Contrast](https://webaim.org/resources/contrastchecker/)
 
 ### **Lighthouse**
-![Desktop Lighthouse](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658867001/images_pp1/LightHouse_Desktop_lajkbl.png)
+![Desktop Lighthouse](https://res.cloudinary.com/dk2fqntmr/image/upload/v1666602745/images_pp1/Screenshot_2022-10-24_at_09.50.16_wxuqjr.png)
 
-![Desktop Lighthouse](https://res.cloudinary.com/dk2fqntmr/image/upload/v1658867001/images_pp1/LightHouse_Mobile_sk219p.png)
+![Desktop Lighthouse](https://res.cloudinary.com/dk2fqntmr/image/upload/v1666602745/images_pp1/Screenshot_2022-10-24_at_09.50.47_kbehun.png)
+
+![Desktop Lighthouse]([https://res.cloudinary.com/dk2fqntmr/image/upload/v1666602745/images_pp1/Screenshot_2022-10-24_at_09.50.31_kgiopi.png)
 
 
 ### Validator Testing 
