@@ -139,7 +139,8 @@ Press Enter to create your local clone.
   - Mentors and Collegue 
   - VS Code and GITPOD
   - Youtube videos
-  -CSS tricks
+  - CSS tricks
+  - Google Maps
   
 - **Images**
 
